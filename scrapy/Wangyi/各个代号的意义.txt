@@ -1,0 +1,58 @@
+gszl：
+    name         #公司名称
+    code         #公司代码    
+    form         #组织形式
+    location     #地域
+    sim_name     #中文简称
+    addr         #办公地址
+    all_name     #公司全称
+    tel          #公司电话
+    en_name      #英文名称
+    email        #公司电子邮箱
+    fund         #注册资本
+    chairman     #董事长
+    emp_num      #员工人数
+    secretary    #董事会秘书
+    represent    #法人代表
+    s_tele       #董秘电话
+    manager      #总经理
+    s_fax        #董秘传真
+    web          #公司网址
+    s_email      #董秘邮箱
+    inf_web      #信息披露网址
+    inf_news     #信息披露报纸名称
+    business     #主营业务
+    field        #经营范围
+    evolution    #公司沿革
+
+gdfx：
+    name         #公司名称
+    code         #公司代码
+    shareholder_1#第一大股东
+    perc_1       #第一大股东持股比例
+    shareholder_2
+    perc_2
+    shareholder_3
+    perc_3
+    shareholder_4
+    shareholder_5
+    shareholder_6
+    shareholder_7
+    shareholder_8
+    shareholder_9
+    shareholder_10
+
+yggc：
+    name         #公司名称
+    code         #公司代码
+    comp_1       #第一多员工构成
+    perc_1       #第一多员工构成比例
+    comp_2
+    perc_2
+    comp_3
+    perc_3
+    comp_4
+    perc_4
+    comp_5
+    perc_5
+  

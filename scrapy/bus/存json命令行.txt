@@ -1,0 +1,1 @@
+scrapy crawl busi -o bus.json -s FEED_EXPORT_ENCODING=UTF-8 
